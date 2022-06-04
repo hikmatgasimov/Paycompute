@@ -1,6 +1,5 @@
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\appsettings.Development.json
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\appsettings.json
-C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.StaticWebAssets.xml
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.exe
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.deps.json
@@ -133,7 +132,6 @@ C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Service.dll
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Entity.pdb
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Service.pdb
 C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\Paycompute.Persistence.pdb
-C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csprojAssemblyReference.cache
 C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cache
 C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.RazorAssemblyInfo.cs
 C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.AssemblyInfoInputs.cache
@@ -219,3 +217,6 @@ C:\Projects\Paycompute\Paycompute\bin\Debug\netcoreapp3.1\RotativaCore.dll
 C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.CoreCompileInputs.cache
 C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cs
 C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.MvcApplicationPartsAssemblyInfo.cache
+C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.csproj.AssemblyReference.cache
+C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\Paycompute.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\Paycompute\Paycompute\obj\Debug\netcoreapp3.1\scopedcss\bundle\Paycompute.styles.css
